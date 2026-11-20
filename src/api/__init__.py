@@ -1,0 +1,1 @@
+"""CaratMind prediction API."""

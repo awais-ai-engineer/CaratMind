@@ -1,0 +1,31 @@
+﻿# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Frontend dependencies and build output
+node_modules/
+.next/
+out/
+dist/
+*.tsbuildinfo
+test-results/
+playwright-report/
+
+# Local configuration and logs
+.env
+.env.*
+!.env.example
+*.log
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Generated experiment output; retained locally
+/artifacts/
+/data/processed/

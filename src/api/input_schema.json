@@ -1,0 +1,58 @@
+{
+  "source": "Frozen training partition only; no targets used. Ranges are warnings, not proof of joint-distribution support.",
+  "training_sha256": "e53295ccf3e4a69a1a2959d78620d9c0eb92251654e6dfdee08794b89a1fdae5",
+  "numeric_ranges": {
+    "carat": {
+      "min": 0.2,
+      "max": 4.5
+    },
+    "depth": {
+      "min": 43.0,
+      "max": 79.0
+    },
+    "table": {
+      "min": 43.0,
+      "max": 79.0
+    },
+    "x": {
+      "min": 3.73,
+      "max": 10.23
+    },
+    "y": {
+      "min": 3.71,
+      "max": 10.16
+    },
+    "z": {
+      "min": 1.07,
+      "max": 6.72
+    }
+  },
+  "categories": {
+    "cut": [
+      "Fair",
+      "Good",
+      "Ideal",
+      "Premium",
+      "Very Good"
+    ],
+    "color": [
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "I",
+      "J"
+    ],
+    "clarity": [
+      "I1",
+      "IF",
+      "SI1",
+      "SI2",
+      "VS1",
+      "VS2",
+      "VVS1",
+      "VVS2"
+    ]
+  }
+}
